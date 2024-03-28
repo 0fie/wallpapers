@@ -1,5 +1,6 @@
 # wallpapers
-Awesome wallpapers from around the internet.
+Massive restructuring planned, to add credits & improve readme.
+
 ![](./images/180-1806618_anime-landscape-scenery-clouds-stars-buildings-anime-landscape.jpg)
 ![](./images/20220519_140541.jpg)
 ![](./images/320369a232abb8881c410a9500aee346.jpg)
