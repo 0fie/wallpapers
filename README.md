@@ -1,9 +1,11 @@
 # Some wallpapers that I use.     
 
 
-###### Source: @Amnesia on [Catppuccin Discord][Catppuccin Discord] ![](./images/Above-The-Clouds-Wallpaper.jpg)   
+###### Source: unknown ![](./images/Above-The-Clouds-Wallpaper.jpg)   
 
 ###### Credit: [Dominique van Velsen][Dominique van Velsen] ![](images/macchiato-hald8-cyberpunkish.png)
+
+###### Source: [KDE MegaRelease 6 Announcement](https://kde.org/announcements/megarelease/6/) ![](images/mocha-hald16-dark.png)
 
 ###### Source: unknown ![](./images/aesthetic2.jpg)   
 
