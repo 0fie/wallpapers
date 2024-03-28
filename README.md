@@ -1,7 +1,7 @@
 # Some wallpapers that I like     
 
 
-###### Source: Amnesia on [Catppuccin Discord][Catppuccin Discord] ![](./images/Above-The-Clouds-Wallpaper.jpg)   
+###### Source: @Amnesia on [Catppuccin Discord][Catppuccin Discord] ![](./images/Above-The-Clouds-Wallpaper.jpg)   
 
 ###### Source: unknown ![](./images/aesthetic2.jpg)   
 
