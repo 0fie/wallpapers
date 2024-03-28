@@ -1,4 +1,4 @@
-# Some wallpapers that I like     
+# Some wallpapers that I use.     
 
 
 ###### Source: @Amnesia on [Catppuccin Discord][Catppuccin Discord] ![](./images/Above-The-Clouds-Wallpaper.jpg)   
